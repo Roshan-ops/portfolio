@@ -39,10 +39,10 @@ const About =() =>{
                         </article>
                     </div>
                     <p>
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-                        Earum accusantium minus cupiditate beatae distinctio vitae dignissimos
-                        repudiandae libero maiores soluta nam veniam quam velit, sint adipisci 
-                        facilis fugit, ex hic.
+                    I'm a computer science student in my last year at Herald College in Kathmandu. 
+                    I work on various front-end projects, have a strong interest in javascript, and 
+                    spend my leisure time learning node.js.
+                     I have a strong desire to learn new things and create new things.     
                     </p>
                     <a href="#contact" className="btn btn-primary">Let's Talk</a>
                 </div>

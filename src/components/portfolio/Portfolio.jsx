@@ -11,44 +11,44 @@ const data =  [
     {
         id: 1,
         image: IMG1,
-        title: 'project light',
-        github:"https://github.com",
-        demo: 'https://www.youtube.com/watch?v=jZpMvFKjH2g'
+        title: 'job portal',
+        github:"https://github.com/Roshan-ops/Job-Portal",
+        demo: ''
     },
     {
         id: 2,
         image: IMG2,
-        title: 'project mars',
-        github:"https://github.com",
-        demo:'https://www.youtube.com/watch?v=112H-vY4Wdo'
+        title: 'Weather App',
+        github:"https://github.com/Roshan-ops/Weather-check",
+        demo:''
     },
     {
         id: 3,
         image: IMG3,
-        title: 'project earth',
-        github:"https://github.com",
-        demo:'https://www.tiktok.com/@danbanbam/video/7153751707057655086?is_from_webapp=1&sender_device=pc&web_id=7136282504583464449'
+        title: 'QR-Scanner',
+        github:"https://github.com/Roshan-ops/qrScanner",
+        demo:''
     },
     {
         id: 4,
         image: IMG4,
-        title: 'project thunder',
-        github:"https://github.com",
-        demo:'https://www.youtube.com/watch?v=Xo6w5QVrABc'
+        title: 'Event Management',
+        github:"https://github.com/Roshan-ops/Event-Management",
+        demo:''
     },
     {
         id: 5,
         image: IMG5,
-        title: 'project venus',
-        github:"https://github.com",
-        demo:'https://www.youtube.com/watch?v=jZpMvFKjH2g'
+        title: 'Todo App',
+        github:"https://github.com/Roshan-ops/To-do_app",
+        demo:''
     },
     {
         id: 6,
         image: IMG6,
-        title: 'project solarsyatem',
-        github:"https://github.com",
-        demo:'https://www.youtube.com/watch?v=jZpMvFKjH2g'
+        title: 'portfolio',
+        github:"https://github.com/Roshan-ops/portfolio",
+        demo:''
     }
 ]
 
