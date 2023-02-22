@@ -70,7 +70,7 @@ const Experience =() =>{
                         <article className="experience_details">
                             <BsPatchCheck className='experience_details-icon'/>
                             <div>
-                            <h4>MangoDB</h4>
+                            <h4>MongoDB</h4>
                             <small className="text-light">Experienced</small>
                             </div>
 
