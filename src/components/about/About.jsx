@@ -40,7 +40,7 @@ const About =() =>{
                     </div>
                     <p>
                     I'm a computer science student in my last year at Herald College in Kathmandu. 
-                    I work on various front-end projects, have a strong interest in javascript, and 
+                    I work on various front-end projects, have a strong interest in Design javascript, and 
                     spend my leisure time learning node.js.
                      I have a strong desire to learn new things and create new things.     
                     </p>
